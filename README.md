@@ -1,2 +1,2 @@
-# wen-scrapping-hackathon
+# web-scrapping-hackathon
 first scrapping
